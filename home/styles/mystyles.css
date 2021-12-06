@@ -1,0 +1,14 @@
+.underline {
+    text-decoration: underline;
+    color: blue
+}
+h1{ font-weight: lighter}
+h2{color: forestgreen}
+h3{font-style: italic}
+p{
+    font-family: serif
+    font-size: 14px
+}
+li{font-weight: normal
+}
+.bold{font-weight: bold}
